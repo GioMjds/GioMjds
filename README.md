@@ -1,5 +1,20 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Gio Majadas
 
+```python
+class UserDetails:
+  def __init__(self, firstName, lastName, age, course, specialty):
+    self.fullName = f"{firstName} {lastName}"
+    self.age = age
+    self.course = course
+    self.specialty = specialty
+
+  def introduce(self):
+    return f"Hi! My name is {self.fullName}. {self.age} years old. My course is {self.course} and I am a {self.specialty}"
+
+myself = UserDetails("Gio", "Majadas", 21, "Bachelor of Science in Information Technology", "Front-End Developer")
+myself.introduce()
+```
+
 Welcome to my GitHub Profile! I'm an passionate **Front-End Developer** dedicated to crafting seamless, interactive, and engaging web experiences
 
 ---
@@ -9,10 +24,13 @@ Welcome to my GitHub Profile! I'm an passionate **Front-End Developer** dedicate
 - **Ask me about**: Front-End Development
 - **Currently Learning**: Database Engineering
 
+## GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GioMjds&theme=dark&show_icons=true&count_private=true" />
+
 ## 🛠️ Tech Stacks
 
 ### Programming Languages
-- C#
+- C# 
 - C++
 - JavaScript
 - Python
