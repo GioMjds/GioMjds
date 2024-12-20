@@ -27,34 +27,24 @@ Welcome to my GitHub Profile! I'm an passionate **Front-End Developer** dedicate
 ## GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GioMjds&theme=dark&show_icons=true&count_private=true" />
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c2os4dj4fyobfsdhzmntuxyrd4)
+
 ## 🛠️ Tech Stacks
 
-### Programming Languages
-- C# 
-- C++
-- JavaScript
-- Python
-- Visual Basic .NET
+## Programming Languages
+<img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/6e97a099958b7febea519f7d236a047921fda8f5/gistfile1.svg" alt="C#" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/8f8e7ce3ba166a530625435687a9ee22efd64e7c/c++.svg" alt="C++" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/javascript.svg" alt="JavaScript" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/python.svg" alt="Python" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/visualbasic-original.svg" alt="Visual Basic .NET" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/java.svg" alt="Java" width="80" />
 
-### Web Development
-- HTML
-- CSS (Sass, Tailwind CSS)
-- JavaScript
-- TypeScript
-- React
-- Svelte
-- Framer Motion
+## Web Development
+<img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/html.svg" alt="HTML" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/css.svg" alt="CSS" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/javascript.svg" alt="JavaScript" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/react.svg" alt="React" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/vite-original.svg" alt="Vite" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/typescript.svg" alt="TypeScript" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/tailwindcss-original.svg" alt="Tailwind CSS" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/sass-original.svg" alt="Sass" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/svelte-original.svg" alt="Svelte" width="80" /> 
 
-### Frameworks
-- Flask
+## Frameworks
+<img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/django.svg" alt="Django" width="80" /> 
 
-### Version Control
-- Git
-- GitHub
+## Version Control
+<img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/git.svg" alt="Git" width="80" /> 
 
-### Tools and Services
-- VSCode (my primary IDE)
-- Figma (Design & Prototyping)
+## Other Skills
+<img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/mysql.svg" alt="MySQL" width="80" /><img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/nodejs.svg" alt="NodeJS" width="80" /> <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/npm.svg" alt="NPM" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/powershell-original.svg" alt="Powershell" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/bash.svg" alt="Bash" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/postgresql.svg" alt="PostgreSQL" width="80" /> <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/php-original.svg" alt="PHP" width="80" /> 
 
 ---
 
@@ -66,5 +56,3 @@ Welcome to my GitHub Profile! I'm an passionate **Front-End Developer** dedicate
 
 ## 📫 How to Contact Me?
 - **Email**: giomjds@gmail.com
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c2os4dj4fyobfsdhzmntuxyrd4)
