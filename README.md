@@ -14,17 +14,6 @@ class UserDetails:
 myself = UserDetails("Gio", "Majadas", 21, "Bachelor of Science in Information Technology", "Front-End Developer")
 myself.introduce()
 ```
-
-Welcome to my GitHub Profile! I'm an passionate **Front-End Developer** dedicated to crafting seamless, interactive, and engaging web experiences
-
----
-
-## 🚀 About Me
-- **University Attended**: Laguna University
-- **Ask me about**: Front-End Development
-- **Currently Learning**: Database Engineering
-
-## GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GioMjds&theme=dark&show_icons=true&count_private=true" />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c2os4dj4fyobfsdhzmntuxyrd4)
