@@ -14,9 +14,14 @@ class UserDetails:
 myself = UserDetails("Gio", "Majadas", 21, "Bachelor of Science in Information Technology", "Front-End Developer")
 myself.introduce()
 ```
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GioMjds&theme=dark&show_icons=true&count_private=true" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c2os4dj4fyobfsdhzmntuxyrd4)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31c2os4dj4fyobfsdhzmntuxyrd4" style="margin-right: 20px" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=GioMjds&theme=dark&show_icons=true&count_private=true" />
+
+</div>
 
 ## 🛠️ Tech Stacks
 
