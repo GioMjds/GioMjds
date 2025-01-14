@@ -7,6 +7,8 @@ const MyInformation: FC = () => {
   return (
     <h1>Hi there! I am Gio Majadas, and I am an Full Stack Developer</h1>
     <h2>I am an 2nd Year BSIT Student from Laguna University</h2>
+
+    <h1>You may visit my personal portfolio <a href="https://giomjds-portfolio.vercel.app/">here.</a></h1>
   );
 }
 
