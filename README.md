@@ -1,18 +1,19 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Gio Majadas
 
 ```tsx
-import { FC } from 'react';
 
-const MyInformation: FC = () => {
+import Link from "next/link";
+
+export default function MyInformation() {
   return (
-    <h1>Hi there! I am Gio Majadas, and I am an Full Stack Developer</h1>
-    <h2>I am an 2nd Year BSIT Student from Laguna University</h2>
-
-    <h1>You may visit my personal portfolio <a href="https://giomjds-portfolio.vercel.app/">here.</a></h1>
+    <>
+      <h1>Hi there! I am Gio Majadas, and I am an Full Stack Developer</h1>
+      <h2>I am an 2nd Year BSIT Student from Laguna University</h2>
+      <h1>You may visit my personal portfolio <Link href="https://giomjds.vercel.app/">here.</Link></h1>
+    </>
   );
 }
 
-export default MyInformation;
 ```
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
