@@ -55,9 +55,9 @@ export default function MyInformation() {
 
 ## 🎵 Currently Listening To
 
-<div align="center">
+<div align="left">
   
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c2os4dj4fyobfsdhzmntuxyrd4" style="margin-right: 20px" />
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2os4dj4fyobfsdhzmntuxyrd4&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2os4dj4fyobfsdhzmntuxyrd4&redirect=true)
   
 </div>
 
