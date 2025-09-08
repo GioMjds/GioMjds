@@ -1,39 +1,34 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gio Majadas
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;2nd+Year+BSIT+Student;Always+learning+new+things)](https://git.io/typing-svg)
-  
-</div>
-
----
-
-## 👨‍💻 About Me
-
 ```tsx
 import Link from "next/link";
 
 export default function MyInformation() {
+  const info = {
+    name: "Gio Majadas",
+    role: "Full Stack Developer",
+    education: "2nd Year BSIT Student at Laguna University",
+    portfolio: "https://giomjds.vercel.app/",
+    passions: [
+      "Creating amazing web experiences",
+      "Learning advanced web technologies", 
+      "Exploring new frameworks",
+      "Building projects that solve real-world problems"
+    ]
+  };
+
   return (
-    <>
-      <h1>Hi there! I am Gio Majadas, and I am a Full Stack Developer</h1>
-      <h2>I am a 2nd Year BSIT Student from Laguna University</h2>
-      <h1>You may visit my personal portfolio <Link href="https://giomjds.vercel.app/">here.</Link></h1>
-    </>
+    <div className="developer-profile">
+      <h1>Hi there! I am {info.name}, and I am a {info.role}</h1>
+      <h2>{info.education}</h2>
+      <p>💻 {info.role} passionate about {info.passions[0]}</p>
+      <p>🌱 Currently {info.passions[1]} and {info.passions[2]}</p>
+      <p>🚀 {info.passions[3]}</p>
+      <h3>You may visit my personal portfolio <Link href={info.portfolio}>here.</Link></h3>
+    </div>
   );
 }
 ```
-
-<div align="center">
-  
-  🎓 **2nd Year BSIT Student** at Laguna University  
-  💻 **Full Stack Developer** passionate about creating amazing web experiences  
-  🌱 Currently learning advanced web technologies and exploring new frameworks  
-  🚀 Building projects that solve real-world problems  
-  
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
