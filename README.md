@@ -1,35 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gio Majadas
 
-```tsx
-import Link from "next/link";
-
-export default function MyInformation() {
-  const info = {
-    name: "Gio Majadas",
-    role: "Full Stack Developer",
-    education: "2nd Year BSIT Student at Laguna University",
-    portfolio: "https://giomjds.vercel.app/",
-    passions: [
-      "Creating amazing web experiences",
-      "Learning advanced web technologies", 
-      "Exploring new frameworks",
-      "Building projects that solve real-world problems"
-    ]
-  };
-
-  return (
-    <div className="developer-profile">
-      <h1>Hi there! I am {info.name}, and I am a {info.role}</h1>
-      <h2>{info.education}</h2>
-      <p>💻 {info.role} passionate about {info.passions[0]}</p>
-      <p>🌱 Currently {info.passions[1]} and {info.passions[2]}</p>
-      <p>🚀 {info.passions[3]}</p>
-      <h3>You may visit my personal portfolio <Link href={info.portfolio}>here.</Link></h3>
-    </div>
-  );
-}
-```
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -48,16 +18,6 @@ export default function MyInformation() {
 <div align="center">
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GioMjds&theme=tokyo-night&hide_border=true)
-  
-</div>
-
----
-
-## 🎵 Currently Listening To
-
-<div align="left">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2os4dj4fyobfsdhzmntuxyrd4&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2os4dj4fyobfsdhzmntuxyrd4&redirect=true)
   
 </div>
 
@@ -146,20 +106,6 @@ export default function MyInformation() {
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mimic.IGN)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giomjds/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giomjds@gmail.com)
-  
-</div>
-
----
-
-## ⚡ Fun Facts
-
-<div align="center">
-  
-  - 🔭 I'm currently working on improving my full-stack development skills
-  - 🌱 I'm currently learning advanced React patterns and backend optimization
-  - 👯 I'm looking to collaborate on open source projects
-  - 💬 Ask me about web development, databases, or anything tech-related
-  - ⚡ Fun fact: I love combining creativity with code to build amazing user experiences
   
 </div>
 
