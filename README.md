@@ -148,12 +148,3 @@ Started as a designer who wanted to bring ideas to life, I transitioned into dev
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giomjds@gmail.com)
   
 </div>
-
----
-
-<div align="center">
-  <i>⚡ Building the web, one commit at a time ⚡</i>
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GioMjds.GioMjds)
-  
-</div>
