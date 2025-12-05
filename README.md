@@ -1,6 +1,10 @@
-# 👋 Welcome to My Digital Workshop
+<div align="center">
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GioMjds&fontSize=62&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BFFA6&center=true&vCenter=true&random=false&width=835&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Mobile+Developer;UI%2FUX+Designer;Database+Engineer" alt="Typing SVG" />
 
-> Full-Stack Developer specializing in scalable web applications, mobile development, and intuitive UI/UX design.
+</div>
 
 ## 🚀 About Me
 
@@ -148,7 +152,8 @@ Started as a designer who wanted to bring ideas to life, I transitioned into dev
 ---
 
 <div align="center">
+  <i>⚡ Building the web, one commit at a time ⚡</i>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GioMjds.GioMjds)
   
 </div>
