@@ -1,4 +1,104 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gio Majadas
+# 👋 Welcome to My Digital Workshop
+
+> Full-Stack Developer specializing in scalable web applications, mobile development, and intuitive UI/UX design.
+
+## 🚀 About Me
+
+I build end-to-end digital solutions with a focus on performance, maintainability, and clean architecture. Strong in JavaScript, TypeScript, and Python ecosystems—from React and Next.js frontends to Django, FastAPI, Express and Nest.js backends. I design database schemas that handle complexity with elegance and craft interfaces that prioritize clarity and accessibility.
+
+### 🎯 What I Bring to the Table
+
+- Design and ship production-ready applications end to end
+- Build robust backend APIs with efficient data models
+- Create responsive, accessible interfaces across web and mobile
+- Optimize performance at every layer of the stack
+
+### 🌱 My Journey
+
+Started as a designer who wanted to bring ideas to life, I transitioned into development to bridge the gap between stunning visuals and powerful functionality. Now I see the full picture—from wireframes to production code.
+
+---
+
+## 💼 Core Strengths
+
+- **Full-stack web application development**
+- **Database architecture and optimization** (PostgreSQL, MongoDB, MySQL)
+- **API design patterns** (REST, WebSockets)
+- **Cross-platform development** (web, mobile via React Native)
+- **UI/UX design** with focus on accessibility
+- **DevOps basics** and deployment workflows
+
+## 🏆 Notable Achievements
+
+✨ Built multiple full-stack applications from concept to deployment  
+✨ Designed and implemented responsive UIs used across web and mobile  
+✨ Created scalable backend architectures with Django, FastAPI and Nest.js
+
+---
+
+## 🛠️ Tech Stack
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Frontend Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+### Backend Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+---
+
+## 💭 Philosophy
+
+> **"Ship fast, refactor often, prioritize user experience."**
+
+## 🎨 When I'm Not Coding
+
+- Exploring UI/UX design trends and principles
+- Building side projects to experiment with new frameworks
+- Learning and mastering emerging technologies
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -23,76 +123,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<div align="center">
-  
-  <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/6e97a099958b7febea519f7d236a047921fda8f5/gistfile1.svg" alt="C#" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/8f8e7ce3ba166a530625435687a9ee22efd64e7c/c++.svg" alt="C++" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/javascript.svg" alt="JavaScript" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/python.svg" alt="Python" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/450377e9cd36fca8fccba59c216ef0e4/raw/1e68c8d64463f91a0a2fc75b95e42fa6251c486b/visualbasic-original.svg" alt="Visual Basic .NET" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/java.svg" alt="Java" width="60" />
-  
-</div>
-
-### 🌐 Frontend Development
-<div align="center">
-  
-  <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/html.svg" alt="HTML" width="60" />
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/css.svg" alt="CSS" width="60" />
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/react.svg" alt="React" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/3ecd76278b200eb85e9e4aa8f14f4cbe/raw/ea147734f817a19ca30e29d4f662f8fc95da4e41/nextjs-original.svg" alt="NextJS" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/svelte-original.svg" alt="Svelte" width="60" />
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/typescript.svg" alt="TypeScript" width="60" />
-  
-</div>
-
-### 🎨 Styling & Design
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/09b3afb91cc2ea2aff0ef993f3ce2aa8bf6cb905/tailwindcss-original.svg" alt="Tailwind CSS" width="60" />
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/sass-original.svg" alt="Sass" width="60" />
-  
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/nodejs.svg" alt="NodeJS" width="60" />
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/django.svg" alt="Django" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/08f79cebd56a6fd5e71e802269d313c8/raw/072fe2a3d47863756477e536f63530134f6bc20d/fastapi-original.svg" alt="FastAPI" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/08f79cebd56a6fd5e71e802269d313c8/raw/072fe2a3d47863756477e536f63530134f6bc20d/djangorest-original.svg" alt="DRF" width="60" />
-  
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/mysql.svg" alt="MySQL" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/postgresql.svg" alt="PostgreSQL" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/3ecd76278b200eb85e9e4aa8f14f4cbe/raw/ea147734f817a19ca30e29d4f662f8fc95da4e41/mongodb-original.svg" alt="MongoDB" width="60" />
-  
-</div>
-
-### 🔧 Tools & Others
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/git.svg" alt="Git" width="60" />
-  <img src="https://raw.githubusercontent.com/gist/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/npm.svg" alt="NPM" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/powershell-original.svg" alt="Powershell" width="60" />
-  <img src="https://gist.githubusercontent.com/GioMjds/61d1d099776ca671899863b213063aea/raw/53a5772fc8fb06bb8dc1aa21c3f16cb238a34bfa/bash.svg" alt="Bash" width="60" />
-  
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GioMjds&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=GioMjds&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
@@ -102,28 +137,10 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://giomjds.vercel.app/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mimic.IGN)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giomjds/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giomjds/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mimic.IGN)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://giomjds.vercel.app)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giomjds@gmail.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### Show some ❤️ by starring some of my repositories!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=GioMjds&color=brightgreen&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/GioMjds?style=social)](https://github.com/GioMjds)
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
