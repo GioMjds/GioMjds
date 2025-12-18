@@ -30,7 +30,6 @@ Started as a designer who wanted to bring ideas to life, I transitioned into dev
 - **API design patterns** (REST, WebSockets)
 - **Cross-platform development** (web, mobile via React Native)
 - **UI/UX design** with focus on accessibility
-- **DevOps basics** and deployment workflows
 
 ## 🏆 Notable Achievements
 
