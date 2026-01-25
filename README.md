@@ -1,41 +1,8 @@
 <div align="center">
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GioMjds&fontSize=62&fontAlignY=35&animation=twinkling&fontColor=fff" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BFFA6&center=true&vCenter=true&random=false&width=835&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Mobile+Developer;UI%2FUX+Designer;Database+Engineer" alt="Typing SVG" />
 
 </div>
-
-## 🚀 About Me
-
-I build end-to-end digital solutions with a focus on performance, maintainability, and clean architecture. Strong in JavaScript, TypeScript, and Python ecosystems—from React and Next.js frontends to Django, FastAPI, Express and Nest.js backends. I design database schemas that handle complexity with elegance and craft interfaces that prioritize clarity and accessibility.
-
-### 🎯 What I Bring to the Table
-
-- Design and ship production-ready applications end to end
-- Build robust backend APIs with efficient data models
-- Create responsive, accessible interfaces across web and mobile
-- Optimize performance at every layer of the stack
-
-### 🌱 My Journey
-
-Started as a designer who wanted to bring ideas to life, I transitioned into development to bridge the gap between stunning visuals and powerful functionality. Now I see the full picture—from wireframes to production code.
-
----
-
-## 💼 Core Strengths
-
-- **Full-stack web application development**
-- **Database architecture and optimization** (PostgreSQL, MongoDB, MySQL)
-- **API design patterns** (REST, WebSockets)
-- **Cross-platform development** (web, mobile via React Native)
-- **UI/UX design** with focus on accessibility
-
-## 🏆 Notable Achievements
-
-✨ Built multiple full-stack applications from concept to deployment  
-✨ Designed and implemented responsive UIs used across web and mobile  
-✨ Created scalable backend architectures with Django, FastAPI and Nest.js
 
 ---
 
@@ -88,18 +55,6 @@ Started as a designer who wanted to bring ideas to life, I transitioned into dev
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
----
-
-## 💭 Philosophy
-
-> **"Ship fast, refactor often, prioritize user experience."**
-
-## 🎨 When I'm Not Coding
-
-- Exploring UI/UX design trends and principles
-- Building side projects to experiment with new frameworks
-- Learning and mastering emerging technologies
 
 ---
 
